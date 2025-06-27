@@ -1,6 +1,8 @@
 ﻿using Catalog;
+
 int count=45;
 count++;
+
 Console.WriteLine("Count="+count);
 Console.WriteLine("Hello, World!");
 
@@ -9,7 +11,6 @@ p.Id=1;
 p.Title = "sapiens";
 p.Description = "A brief history of humankind";
 p.Price = 10.99f;
-
 Console.WriteLine($"Product: {p.Id},{p.Title},{p.Description},{p.Price}");
 
 Product p2 = new Product();

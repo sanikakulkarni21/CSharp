@@ -13,7 +13,7 @@ public class ProductManager{
     }
     public List<Product> GetAll(){
 
-      List<Product> allProducts=new List<Product>();  //empty list
+        List<Product> allProducts=new List<Product>();  //empty list
         
         allProducts.Add(new Product{
             Id = 1,

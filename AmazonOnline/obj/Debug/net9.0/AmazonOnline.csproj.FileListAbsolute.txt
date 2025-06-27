@@ -1,0 +1,15 @@
+D:\Tap\CSharp\AmazonOnline\obj\Debug\net9.0\AmazonOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\AmazonOnline\obj\Debug\net9.0\AmazonOnline.AssemblyInfoInputs.cache
+D:\Tap\CSharp\AmazonOnline\obj\Debug\net9.0\AmazonOnline.AssemblyInfo.cs
+D:\Tap\CSharp\AmazonOnline\obj\Debug\net9.0\AmazonOnline.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\AmazonOnline\obj\Debug\net9.0\AmazonOnline.sourcelink.json
+D:\Tap\CSharp\AmazonOnline\bin\Debug\net9.0\AmazonOnline.exe
+D:\Tap\CSharp\AmazonOnline\bin\Debug\net9.0\AmazonOnline.deps.json
+D:\Tap\CSharp\AmazonOnline\bin\Debug\net9.0\AmazonOnline.runtimeconfig.json
+D:\Tap\CSharp\AmazonOnline\bin\Debug\net9.0\AmazonOnline.dll
+D:\Tap\CSharp\AmazonOnline\bin\Debug\net9.0\AmazonOnline.pdb
+D:\Tap\CSharp\AmazonOnline\obj\Debug\net9.0\AmazonOnline.dll
+D:\Tap\CSharp\AmazonOnline\obj\Debug\net9.0\refint\AmazonOnline.dll
+D:\Tap\CSharp\AmazonOnline\obj\Debug\net9.0\AmazonOnline.pdb
+D:\Tap\CSharp\AmazonOnline\obj\Debug\net9.0\AmazonOnline.genruntimeconfig.cache
+D:\Tap\CSharp\AmazonOnline\obj\Debug\net9.0\ref\AmazonOnline.dll
