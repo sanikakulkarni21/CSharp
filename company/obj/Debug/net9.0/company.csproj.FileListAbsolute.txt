@@ -1,0 +1,15 @@
+D:\Tap\CSharp\company\obj\Debug\net9.0\company.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\company\obj\Debug\net9.0\company.AssemblyInfoInputs.cache
+D:\Tap\CSharp\company\obj\Debug\net9.0\company.AssemblyInfo.cs
+D:\Tap\CSharp\company\obj\Debug\net9.0\company.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\company\obj\Debug\net9.0\company.sourcelink.json
+D:\Tap\CSharp\company\bin\Debug\net9.0\company.exe
+D:\Tap\CSharp\company\bin\Debug\net9.0\company.deps.json
+D:\Tap\CSharp\company\bin\Debug\net9.0\company.runtimeconfig.json
+D:\Tap\CSharp\company\bin\Debug\net9.0\company.dll
+D:\Tap\CSharp\company\bin\Debug\net9.0\company.pdb
+D:\Tap\CSharp\company\obj\Debug\net9.0\company.dll
+D:\Tap\CSharp\company\obj\Debug\net9.0\refint\company.dll
+D:\Tap\CSharp\company\obj\Debug\net9.0\company.pdb
+D:\Tap\CSharp\company\obj\Debug\net9.0\company.genruntimeconfig.cache
+D:\Tap\CSharp\company\obj\Debug\net9.0\ref\company.dll
