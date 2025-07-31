@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFLEcommerce", "TFLEcommerce\TFLEcommerce.csproj", "{C765F58F-E439-62F6-A62D-9D2D950A2005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C765F58F-E439-62F6-A62D-9D2D950A2005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C765F58F-E439-62F6-A62D-9D2D950A2005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C765F58F-E439-62F6-A62D-9D2D950A2005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C765F58F-E439-62F6-A62D-9D2D950A2005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD7555C-3940-485C-B2DC-FE0E291D5FB5}
+	EndGlobalSection
+EndGlobal
