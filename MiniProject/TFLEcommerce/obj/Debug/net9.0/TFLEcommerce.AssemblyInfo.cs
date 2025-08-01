@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TFLEcommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+610b3ec4568f6243ee71f4bc78dfdfed495c9c01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0749c47efe943a84378a49fbc576a9549443e02")]
 [assembly: System.Reflection.AssemblyProductAttribute("TFLEcommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TFLEcommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
