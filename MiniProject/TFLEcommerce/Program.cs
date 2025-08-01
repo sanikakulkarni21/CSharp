@@ -20,7 +20,7 @@ class DirectConnectivity
             Console.WriteLine("3. Update");
             Console.WriteLine("4. Delete");
             Console.WriteLine("5. GetAll");
-           // Console.WriteLine("6. getById");
+            
             Console.WriteLine("6. Exit");
             Console.Write("enter your choice: ");
             if (!int.TryParse(Console.ReadLine(), out choice))
