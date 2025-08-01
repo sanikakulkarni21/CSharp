@@ -8,7 +8,7 @@ namespace Membership
     {
         public static bool Login(string userName, string password)
         {
-            bool ststus = false;
+            bool status = false;
             if (userName == "sanika" && password == "san")
             {
                 status = true;

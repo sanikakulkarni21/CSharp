@@ -1,6 +1,6 @@
 using Catalog;
  
-namespace ShopingCart
+namespace Items
 {
     public class Item
     {

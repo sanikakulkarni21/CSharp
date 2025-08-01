@@ -1,0 +1,15 @@
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\bin\Debug\net9.0\JsonSerializationApp.exe
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\bin\Debug\net9.0\JsonSerializationApp.deps.json
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\bin\Debug\net9.0\JsonSerializationApp.runtimeconfig.json
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\bin\Debug\net9.0\JsonSerializationApp.dll
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\bin\Debug\net9.0\JsonSerializationApp.pdb
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\obj\Debug\net9.0\JsonSerializationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\obj\Debug\net9.0\JsonSerializationApp.AssemblyInfoInputs.cache
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\obj\Debug\net9.0\JsonSerializationApp.AssemblyInfo.cs
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\obj\Debug\net9.0\JsonSerializationApp.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\obj\Debug\net9.0\JsonSerializationApp.sourcelink.json
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\obj\Debug\net9.0\JsonSerializationApp.dll
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\obj\Debug\net9.0\refint\JsonSerializationApp.dll
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\obj\Debug\net9.0\JsonSerializationApp.pdb
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\obj\Debug\net9.0\JsonSerializationApp.genruntimeconfig.cache
+D:\Tap\CSharp\c#debugging\persistanceSolution\JsonSerializationApp\obj\Debug\net9.0\ref\JsonSerializationApp.dll

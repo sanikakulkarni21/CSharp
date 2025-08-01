@@ -6,13 +6,18 @@ public abstract class Employee
     protected string name;
     protected double salary;
     protected Address address;
+    
+    public int Id { get; }
+    public string Name { get; set; }
+    public double Salary { get; set; }
+    public Address Address { get; set; }
 
-    public Employee(int id, string name, double salary, Address address )
+    public Employee(int id, string name, double salary, Address address)
     {
-        this.id = id;
-        this.name = name;
-        this.salary = salary;
-        this.address = address;
+        Id = id;
+        Name = name;
+        Salary = salary;
+        Address = address;
     }
 
 
