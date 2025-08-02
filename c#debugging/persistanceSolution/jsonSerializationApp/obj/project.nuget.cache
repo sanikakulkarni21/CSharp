@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wYyFKub6Ays=",
+  "dgSpecHash": "wVdw64EHuC8=",
   "success": true,
-  "projectFilePath": "D:\\Tap\\CSharp\\c#debugging\\persistanceSolution\\jsonSerializationApp\\jsonSerializationApp.csproj",
+  "projectFilePath": "D:\\Tap\\CSharp\\c#debugging\\persistanceSolution\\JsonSerializationApp\\JsonSerializationApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
