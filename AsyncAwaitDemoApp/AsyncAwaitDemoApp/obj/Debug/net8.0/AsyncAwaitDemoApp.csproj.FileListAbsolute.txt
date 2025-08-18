@@ -1,8 +1,4 @@
 D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\net8.0\AsyncAwaitDemoApp.exe
-D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\net8.0\AsyncAwaitDemoApp.deps.json
-D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\net8.0\AsyncAwaitDemoApp.runtimeconfig.json
-D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\net8.0\AsyncAwaitDemoApp.dll
-D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\net8.0\AsyncAwaitDemoApp.pdb
 D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\net8.0\AsyncAwaitDemoApp.GeneratedMSBuildEditorConfig.editorconfig
 D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\net8.0\AsyncAwaitDemoApp.AssemblyInfoInputs.cache
 D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\net8.0\AsyncAwaitDemoApp.AssemblyInfo.cs
@@ -11,5 +7,9 @@ D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\net8.0\AsyncAwaitDem
 D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\net8.0\AsyncAwaitDemoApp.dll
 D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\net8.0\refint\AsyncAwaitDemoApp.dll
 D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\net8.0\AsyncAwaitDemoApp.pdb
+D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\net8.0\AsyncAwaitDemoApp.deps.json
+D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\net8.0\AsyncAwaitDemoApp.runtimeconfig.json
+D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\net8.0\AsyncAwaitDemoApp.dll
+D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\bin\Debug\net8.0\AsyncAwaitDemoApp.pdb
 D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\net8.0\AsyncAwaitDemoApp.genruntimeconfig.cache
 D:\Tap\CSharp\AsyncAwaitDemoApp\AsyncAwaitDemoApp\obj\Debug\net8.0\ref\AsyncAwaitDemoApp.dll
