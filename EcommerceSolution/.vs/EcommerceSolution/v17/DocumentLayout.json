@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tap\\CSharp\\EcommerceSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\productcatalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\productcatalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\productcatalogapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\productcatalogapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1401971125:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductCatalogAPI\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T03:53:20.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ProductCatalogAPI\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T03:50:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\Entities\\Product.cs",
+              "ToolTip": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductCatalogAPI\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T03:11:20.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCatalogAPI",
+              "DocumentMoniker": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "ToolTip": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "RelativeToolTip": "ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T03:01:02.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCatalogAPI",
+              "DocumentMoniker": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "ToolTip": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "RelativeToolTip": "ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T02:21:31.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\Program.cs",
+              "ToolTip": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Program.cs",
+              "RelativeToolTip": "ProductCatalogAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T01:49:31.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
