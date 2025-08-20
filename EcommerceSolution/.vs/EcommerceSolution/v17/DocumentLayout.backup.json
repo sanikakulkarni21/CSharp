@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44F7EAD1-6E30-4AC3-A3E8-DA5D760B79BC}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\tap\\csharp\\ecommercesolution\\productcatalogapi\\productcatalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ProductCatalogAPI\\Repositories\\ProductRepository.cs",
@@ -61,14 +61,14 @@
               "RelativeDocumentMoniker": "ProductCatalogAPI\\Repositories\\IProductRepository.cs",
               "ToolTip": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Repositories\\IProductRepository.cs",
               "RelativeToolTip": "ProductCatalogAPI\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T03:50:48.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ProductCatalogAPI\\Entities\\Product.cs",
@@ -110,9 +110,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Program.cs",
               "RelativeDocumentMoniker": "ProductCatalogAPI\\Program.cs",
-              "ToolTip": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Program.cs*",
-              "RelativeToolTip": "ProductCatalogAPI\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Tap\\CSharp\\EcommerceSolution\\ProductCatalogAPI\\Program.cs",
+              "RelativeToolTip": "ProductCatalogAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T01:49:31.64Z",
               "EditorCaption": ""
