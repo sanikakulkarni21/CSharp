@@ -1,4 +1,4 @@
-﻿namespace HRWebAPI
+﻿namespace HRWebAPI.Entities
 {
     public class Product
     {

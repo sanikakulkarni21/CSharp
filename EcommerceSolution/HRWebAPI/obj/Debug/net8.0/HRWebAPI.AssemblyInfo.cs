@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HRWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd5bd13b2db9abebfefc0fa99c75cfb1722de28c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0d21d790167449c5c3f7d54e003fe31ea0bd9db")]
 [assembly: System.Reflection.AssemblyProductAttribute("HRWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HRWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

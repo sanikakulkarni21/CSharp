@@ -1,0 +1,15 @@
+D:\Tap\CSharp\DemoProgram\obj\Debug\net9.0\DemoProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\DemoProgram\obj\Debug\net9.0\DemoProgram.AssemblyInfoInputs.cache
+D:\Tap\CSharp\DemoProgram\obj\Debug\net9.0\DemoProgram.AssemblyInfo.cs
+D:\Tap\CSharp\DemoProgram\obj\Debug\net9.0\DemoProgram.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\DemoProgram\obj\Debug\net9.0\DemoProgram.sourcelink.json
+D:\Tap\CSharp\DemoProgram\bin\Debug\net9.0\DemoProgram.exe
+D:\Tap\CSharp\DemoProgram\bin\Debug\net9.0\DemoProgram.deps.json
+D:\Tap\CSharp\DemoProgram\bin\Debug\net9.0\DemoProgram.runtimeconfig.json
+D:\Tap\CSharp\DemoProgram\bin\Debug\net9.0\DemoProgram.dll
+D:\Tap\CSharp\DemoProgram\bin\Debug\net9.0\DemoProgram.pdb
+D:\Tap\CSharp\DemoProgram\obj\Debug\net9.0\DemoProgram.dll
+D:\Tap\CSharp\DemoProgram\obj\Debug\net9.0\refint\DemoProgram.dll
+D:\Tap\CSharp\DemoProgram\obj\Debug\net9.0\DemoProgram.pdb
+D:\Tap\CSharp\DemoProgram\obj\Debug\net9.0\DemoProgram.genruntimeconfig.cache
+D:\Tap\CSharp\DemoProgram\obj\Debug\net9.0\ref\DemoProgram.dll
