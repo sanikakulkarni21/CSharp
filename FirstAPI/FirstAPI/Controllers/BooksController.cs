@@ -30,5 +30,17 @@ namespace FirstAPI.Controllers
             }
             return Ok(book);
         }
+
+        [HttpPost]
+        public ActionResult<Book> AddBook(Book newBook)
+        {
+           if (newBook == null)
+           {
+                return BadRequest();
+                books.Add(newBook);
+               
+            }
+            return CreatedAtAction(nameof(GetBook), new { id = newBook.Id }, newBook);
+        }
     }
 }

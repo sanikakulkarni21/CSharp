@@ -11,3 +11,6 @@ accept: application/json
 ###
 GET {{rootURL}}/api/books/1
 accept: application/json
+
+###
+POST {{rootURL}}/api/books
