@@ -14,5 +14,21 @@ namespace FirstAPI.Controllers
             new Book { Id = 2, Title = "To Kill a Mockingbird", Author = "Harper Lee", YearPublished = 1960 },
             new Book { Id = 3, Title = "The Great Gatsby", Author = "F. Scott Fitzgerald", YearPublished = 1925 }
         };
+        [HttpGet]
+        public ActionResult<List<Book>> GetBooks()
+        {
+            return Ok(books);
+        }
+
+        [HttpGet("{id}")]
+        public ActionResult<Book> GetBook(int id)
+        {
+            var book = books.FirstOrDefault(b => b.Id == id);
+            if (book == null)
+            {
+                return NotFound();
+            }
+            return Ok(book);
+        }
     }
 }
