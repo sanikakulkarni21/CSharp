@@ -24,4 +24,4 @@ Console.WriteLine("product updated successfully");
 
 
 // Delete
-//repo.DeleteProduct(1);
+repo.DeleteProduct(1);
