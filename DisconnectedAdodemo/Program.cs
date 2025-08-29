@@ -6,7 +6,7 @@ Console.WriteLine("=== Disconnected ADO.NET Demo (MySQL) ===");
 
 var repo = new ProductRepository();
 
-// Insert
+// Insert operation
 repo.InsertProduct(new Product { Name = "Wireless Mouse", Price = 899.99m });
 repo.InsertProduct(new Product { Name = "Keyboard", Price = 1000m });
 Console.WriteLine("product inserted successfully");
