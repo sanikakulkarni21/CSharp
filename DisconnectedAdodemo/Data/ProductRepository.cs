@@ -6,8 +6,7 @@ namespace DisconnectedAdoDemo.Data;
 
 public class ProductRepository
 {
-    // IMPORTANT: adjust Server / Port / Uid / Pwd
-    // If your MySQL runs on 3307, keep Port=3307; otherwise remove the Port part.
+    
     private string connectionString =
         "Server=localhost;Port=3307;Database=ado_demo;Uid=root;Pwd=root;SslMode=None;";
 
