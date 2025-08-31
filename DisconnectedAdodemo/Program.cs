@@ -19,11 +19,11 @@ foreach (DataRow row in products.Rows)
 }
 
 
-// Update
+// Update Product
 repo.UpdateProduct(new Product { Id = 1, Name = "Ergonomic Mouse", Price = 1099.00m });
 Console.WriteLine("product updated successfully");
 
 
-// Delete
+// Delete product
 repo.DeleteProduct(1);
 Console.WriteLine("product has been deleted ");
