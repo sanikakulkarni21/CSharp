@@ -6,7 +6,7 @@ namespace MyApp{
          public string Name {get; set;}
          
 
-         //to access the property of date
+         //to access the property of date 
          public Date DateOfJoin{get; set;}
          public Date DateOfLeave{ get; set;}
 
@@ -18,6 +18,7 @@ namespace MyApp{
             DateOfLeave=Dol;
 
          }
+
 
          public override string ToString()
          {
