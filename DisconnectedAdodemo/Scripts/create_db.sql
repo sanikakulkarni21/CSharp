@@ -11,5 +11,5 @@ price DECIMAL(10,2)NOT NULL
 CREATE TABLE IF NOT EXISTS cart(
 Id INT PRIMARY KEY AUTO_INCREMENT ,
 name VARCHAR(100)NOT NULL,
-productId FOREIGN KEY references (productId)
+productId FOREIGN KEY references (productId) h
 );
