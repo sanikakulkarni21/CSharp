@@ -1,0 +1,7 @@
+D:\Tap\CSharp\CSharppdfTryouts\array\obj\Debug\net9.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\CSharppdfTryouts\array\obj\Debug\net9.0\array.AssemblyInfoInputs.cache
+D:\Tap\CSharp\CSharppdfTryouts\array\obj\Debug\net9.0\array.AssemblyInfo.cs
+D:\Tap\CSharp\CSharppdfTryouts\array\obj\Debug\net9.0\array.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\CSharppdfTryouts\array\obj\Debug\net9.0\array.sourcelink.json
+D:\Tap\CSharp\CSharppdfTryouts\array\obj\Debug\net9.0\array.dll
+D:\Tap\CSharp\CSharppdfTryouts\array\obj\Debug\net9.0\array.pdb
