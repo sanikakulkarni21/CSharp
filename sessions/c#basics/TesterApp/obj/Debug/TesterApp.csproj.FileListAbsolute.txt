@@ -1,0 +1,8 @@
+D:\Tap\CSharp\sessions\c#basics\TesterApp\bin\Debug\TesterApp.exe.config
+D:\Tap\CSharp\sessions\c#basics\TesterApp\bin\Debug\TesterApp.exe
+D:\Tap\CSharp\sessions\c#basics\TesterApp\bin\Debug\TesterApp.pdb
+D:\Tap\CSharp\sessions\c#basics\TesterApp\obj\Debug\TesterApp.csproj.AssemblyReference.cache
+D:\Tap\CSharp\sessions\c#basics\TesterApp\obj\Debug\TesterApp.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\sessions\c#basics\TesterApp\obj\Debug\TesterApp.exe
+D:\Tap\CSharp\sessions\c#basics\TesterApp\obj\Debug\TesterApp.pdb
+D:\Tap\CSharp\sessions\c#basics\TesterApp\obj\Debug\TesterApp.exe.config
