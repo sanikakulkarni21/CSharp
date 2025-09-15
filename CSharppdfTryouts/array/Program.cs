@@ -1,8 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-
-//Arrays
+//
+//Arrays.......
 //1.Declare
 //int [] marks;
 //2.Allocate
