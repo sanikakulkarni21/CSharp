@@ -1,0 +1,15 @@
+D:\Tap\CSharp\sessions\AsyncAwait\bin\Debug\net9.0\AsyncAwait.exe
+D:\Tap\CSharp\sessions\AsyncAwait\bin\Debug\net9.0\AsyncAwait.deps.json
+D:\Tap\CSharp\sessions\AsyncAwait\bin\Debug\net9.0\AsyncAwait.runtimeconfig.json
+D:\Tap\CSharp\sessions\AsyncAwait\bin\Debug\net9.0\AsyncAwait.dll
+D:\Tap\CSharp\sessions\AsyncAwait\bin\Debug\net9.0\AsyncAwait.pdb
+D:\Tap\CSharp\sessions\AsyncAwait\obj\Debug\net9.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\sessions\AsyncAwait\obj\Debug\net9.0\AsyncAwait.AssemblyInfoInputs.cache
+D:\Tap\CSharp\sessions\AsyncAwait\obj\Debug\net9.0\AsyncAwait.AssemblyInfo.cs
+D:\Tap\CSharp\sessions\AsyncAwait\obj\Debug\net9.0\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\sessions\AsyncAwait\obj\Debug\net9.0\AsyncAwait.sourcelink.json
+D:\Tap\CSharp\sessions\AsyncAwait\obj\Debug\net9.0\AsyncAwait.dll
+D:\Tap\CSharp\sessions\AsyncAwait\obj\Debug\net9.0\refint\AsyncAwait.dll
+D:\Tap\CSharp\sessions\AsyncAwait\obj\Debug\net9.0\AsyncAwait.pdb
+D:\Tap\CSharp\sessions\AsyncAwait\obj\Debug\net9.0\AsyncAwait.genruntimeconfig.cache
+D:\Tap\CSharp\sessions\AsyncAwait\obj\Debug\net9.0\ref\AsyncAwait.dll
