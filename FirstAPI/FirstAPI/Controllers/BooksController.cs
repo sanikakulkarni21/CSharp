@@ -21,7 +21,7 @@ namespace FirstAPI.Controllers
             return Ok(books);
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("{id}")]//api/books/1
         public ActionResult<Book> GetBook(int id)
         {
             var book = books.FirstOrDefault(b => b.Id == id);
