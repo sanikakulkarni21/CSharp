@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Tap\\CSharp\\AsyncAwaitDemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F9D8F70-7C08-4581-A10C-BF930D8D481B}|AsyncAwaitDemoApp\\AsyncAwaitDemoApp.csproj|d:\\tap\\csharp\\asyncawaitdemoapp\\asyncawaitdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9D8F70-7C08-4581-A10C-BF930D8D481B}|AsyncAwaitDemoApp\\AsyncAwaitDemoApp.csproj|solutionrelative:asyncawaitdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F164B28-1DDB-4FC1-8634-2A5444986CC7}|asyncEg2\\asyncEg2.csproj|d:\\tap\\csharp\\asyncawaitdemoapp\\asynceg2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F164B28-1DDB-4FC1-8634-2A5444986CC7}|asyncEg2\\asyncEg2.csproj|solutionrelative:asynceg2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F9D8F70-7C08-4581-A10C-BF930D8D481B}|AsyncAwaitDemoApp\\AsyncAwaitDemoApp.csproj|d:\\tap\\csharp\\asyncawaitdemoapp\\asyncawaitdemoapp\\helper\\taxdeductionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F9D8F70-7C08-4581-A10C-BF930D8D481B}|AsyncAwaitDemoApp\\AsyncAwaitDemoApp.csproj|solutionrelative:asyncawaitdemoapp\\helper\\taxdeductionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9D8F70-7C08-4581-A10C-BF930D8D481B}|AsyncAwaitDemoApp\\AsyncAwaitDemoApp.csproj|d:\\tap\\csharp\\asyncawaitdemoapp\\asyncawaitdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9D8F70-7C08-4581-A10C-BF930D8D481B}|AsyncAwaitDemoApp\\AsyncAwaitDemoApp.csproj|solutionrelative:asyncawaitdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F9D8F70-7C08-4581-A10C-BF930D8D481B}|AsyncAwaitDemoApp\\AsyncAwaitDemoApp.csproj|d:\\tap\\csharp\\asyncawaitdemoapp\\asyncawaitdemoapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tap\\CSharp\\AsyncAwaitDemoApp\\asyncEg2\\Program.cs",
+              "RelativeDocumentMoniker": "asyncEg2\\Program.cs",
+              "ToolTip": "D:\\Tap\\CSharp\\AsyncAwaitDemoApp\\asyncEg2\\Program.cs",
+              "RelativeToolTip": "asyncEg2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:54:14.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\AsyncAwaitDemoApp\\AsyncAwaitDemoApp\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "AsyncAwaitDemoApp\\Entities\\Product.cs",
@@ -42,8 +59,7 @@
               "RelativeToolTip": "AsyncAwaitDemoApp\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T03:25:45.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T03:25:45.855Z"
             },
             {
               "$type": "Document",
@@ -53,14 +69,14 @@
               "RelativeDocumentMoniker": "AsyncAwaitDemoApp\\Helper\\TaxDeductionManager.cs",
               "ToolTip": "D:\\Tap\\CSharp\\AsyncAwaitDemoApp\\AsyncAwaitDemoApp\\Helper\\TaxDeductionManager.cs",
               "RelativeToolTip": "AsyncAwaitDemoApp\\Helper\\TaxDeductionManager.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAnwEcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T11:48:44.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AsyncAwaitDemoApp.csproj",
               "DocumentMoniker": "D:\\Tap\\CSharp\\AsyncAwaitDemoApp\\AsyncAwaitDemoApp\\AsyncAwaitDemoApp.csproj",
               "RelativeDocumentMoniker": "AsyncAwaitDemoApp\\AsyncAwaitDemoApp.csproj",
@@ -68,21 +84,19 @@
               "RelativeToolTip": "AsyncAwaitDemoApp\\AsyncAwaitDemoApp.csproj",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-11T10:49:35.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T10:49:35.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\AsyncAwaitDemoApp\\AsyncAwaitDemoApp\\Program.cs",
               "RelativeDocumentMoniker": "AsyncAwaitDemoApp\\Program.cs",
               "ToolTip": "D:\\Tap\\CSharp\\AsyncAwaitDemoApp\\AsyncAwaitDemoApp\\Program.cs",
               "RelativeToolTip": "AsyncAwaitDemoApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T10:48:43.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T10:48:43.94Z"
             }
           ]
         }
