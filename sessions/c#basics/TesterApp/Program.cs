@@ -8,6 +8,7 @@ namespace TesterApp
 {
     internal class Program
     {
+        private string programName;
 
         private Program()
         {
@@ -30,11 +31,12 @@ namespace TesterApp
             set { name=value; }
         }*/
         public string Name1 { get; set; } //  new style auto implemented property
+        public string FirstProgram { get; }
 
-        public Program()
-        {
+        /* public Program()
+         {
 
-        }
+         }*/
         public Program(string name)
         {
             this.programName = name;
@@ -70,19 +72,29 @@ namespace TesterApp
 
             var marks = 456;  //dynamic type
 
+             
             int result = Addition(23, 45);
             int result1 = Subtraction(45, 23);
             int result2 = Multiplication(23, 45);
 
             Program theProgram = new Program();
+            theProgram.Name1 = "FirstProgram";// set logic will be called
+                        Console.WriteLine("program name is " + theProgram.Name1);// get logic will be called
             theProgram.Display();
+
+
+
+
+
+            Product theProduct = new Product("Rose","weading flower","flower",1,100);
+            Console.WriteLine(theProduct);
 
 
             Console.ReadLine();
 
         }
 
-         int Addition(int num1, int num2)
+          static int Addition(int num1, int num2)
         {
             return num1 + num2;
         }
