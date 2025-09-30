@@ -26,7 +26,7 @@ namespace Catalog
         }
         ~Product() { }// destructor
 
-        public override string ToString()
+        public override string ToString()// override method
         {
             return this.Name+" "+this.Description+""+this.Category+""+ this.ProductId+" "+this.ProductPrice;
         }
