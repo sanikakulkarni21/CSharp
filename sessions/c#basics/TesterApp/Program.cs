@@ -76,6 +76,7 @@ namespace TesterApp
             int result = Addition(23, 45);
             int result1 = Subtraction(45, 23);
             int result2 = Multiplication(23, 45);
+            int result3 = Division(45, 5);
 
             Program theProgram = new Program();
             theProgram.Name1 = "FirstProgram";// set logic will be called
@@ -106,6 +107,11 @@ namespace TesterApp
         static int Multiplication(int num1, int num2)
         {
             return num1 * num2;
+        }
+
+        static int Division(int num1, int num2)
+        {
+            return num1 / num2;
         }
 
         //Member function method
