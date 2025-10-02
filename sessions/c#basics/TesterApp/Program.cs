@@ -33,10 +33,10 @@ namespace TesterApp
         public string Name1 { get; set; } //  new style auto implemented property
         public string FirstProgram { get; }
 
-        /* public Program()
+         public Program()
          {
 
-         }*/
+         }
         public Program(string name)
         {
             this.programName = name;
