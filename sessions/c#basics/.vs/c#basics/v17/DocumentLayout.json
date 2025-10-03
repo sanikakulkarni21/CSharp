@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Tap\\CSharp\\sessions\\c#basics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|D:\\Tap\\CSharp\\sessions\\c#basics\\testerapp\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|D:\\Tap\\CSharp\\sessions\\c#basics\\testerapp\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,7 +55,7 @@
               "RelativeDocumentMoniker": "TesterApp\\Cart.cs",
               "ToolTip": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Cart.cs",
               "RelativeToolTip": "TesterApp\\Cart.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T12:31:52.543Z",
               "EditorCaption": ""
@@ -70,8 +70,7 @@
               "RelativeToolTip": "TesterApp\\item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T12:31:33.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T12:31:33.063Z"
             },
             {
               "$type": "Document",
@@ -107,8 +106,7 @@
               "RelativeToolTip": "TesterApp\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T12:30:16.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T12:30:16.156Z"
             },
             {
               "$type": "Document",
@@ -120,8 +118,7 @@
               "RelativeToolTip": "TesterApp\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T12:29:53.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T12:29:53.94Z"
             },
             {
               "$type": "Document",

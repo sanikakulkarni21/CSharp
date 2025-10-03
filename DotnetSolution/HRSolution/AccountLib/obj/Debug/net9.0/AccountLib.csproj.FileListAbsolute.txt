@@ -1,0 +1,12 @@
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\bin\Debug\net9.0\AccountLib.deps.json
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\bin\Debug\net9.0\AccountLib.dll
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\bin\Debug\net9.0\AccountLib.pdb
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\obj\Debug\net9.0\AccountLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\obj\Debug\net9.0\AccountLib.AssemblyInfoInputs.cache
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\obj\Debug\net9.0\AccountLib.AssemblyInfo.cs
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\obj\Debug\net9.0\AccountLib.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\obj\Debug\net9.0\AccountLib.sourcelink.json
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\obj\Debug\net9.0\AccountLib.dll
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\obj\Debug\net9.0\refint\AccountLib.dll
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\obj\Debug\net9.0\AccountLib.pdb
+D:\Tap\CSharp\DotnetSolution\HRSolution\AccountLib\obj\Debug\net9.0\ref\AccountLib.dll

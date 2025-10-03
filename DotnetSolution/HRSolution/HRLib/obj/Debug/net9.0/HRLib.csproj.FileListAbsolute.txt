@@ -1,0 +1,12 @@
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\bin\Debug\net9.0\HRLib.deps.json
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\bin\Debug\net9.0\HRLib.dll
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\bin\Debug\net9.0\HRLib.pdb
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\obj\Debug\net9.0\HRLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\obj\Debug\net9.0\HRLib.AssemblyInfoInputs.cache
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\obj\Debug\net9.0\HRLib.AssemblyInfo.cs
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\obj\Debug\net9.0\HRLib.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\obj\Debug\net9.0\HRLib.sourcelink.json
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\obj\Debug\net9.0\HRLib.dll
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\obj\Debug\net9.0\refint\HRLib.dll
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\obj\Debug\net9.0\HRLib.pdb
+D:\Tap\CSharp\DotnetSolution\HRSolution\HRLib\obj\Debug\net9.0\ref\HRLib.dll

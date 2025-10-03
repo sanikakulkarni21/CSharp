@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Catalog;
 namespace TesterApp
 {
     internal class Program
@@ -33,10 +33,10 @@ namespace TesterApp
         public string Name1 { get; set; } //  new style auto implemented property
         public string FirstProgram { get; }
 
-         public Program()
+         /*public Program()
          {
 
-         }
+         }*/
         public Program(string name)
         {
             this.programName = name;
