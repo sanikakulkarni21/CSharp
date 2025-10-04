@@ -28,6 +28,7 @@ namespace Membership
             theCustomer.Password = password;
             theCustomer.Email = email;
             theCustomer.ContactNumber= contactNumner;
+            theCustomer.Location = location;
 
             if (theCustomer != null)
             status = true;
