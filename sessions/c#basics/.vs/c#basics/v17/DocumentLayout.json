@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\banktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\securitytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|D:\\Tap\\CSharp\\sessions\\c#basics\\testerapp\\securitytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\securitytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|D:\\Tap\\CSharp\\sessions\\c#basics\\testerapp\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,9 +40,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|D:\\Tap\\CSharp\\sessions\\c#basics\\testerapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +63,7 @@
               "RelativeDocumentMoniker": "TesterApp\\bankTest.cs",
               "ToolTip": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\bankTest.cs",
               "RelativeToolTip": "TesterApp\\bankTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T12:50:49.957Z",
               "EditorCaption": ""
@@ -81,8 +78,7 @@
               "RelativeToolTip": "TesterApp\\SecurityTest.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T11:51:34.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-04T11:51:34.759Z"
             },
             {
               "$type": "Document",
@@ -94,8 +90,7 @@
               "RelativeToolTip": "TesterApp\\Cart.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T12:31:52.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T12:31:52.543Z"
             },
             {
               "$type": "Document",
@@ -107,8 +102,7 @@
               "RelativeToolTip": "TesterApp\\item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T12:31:33.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T12:31:33.063Z"
             },
             {
               "$type": "Document",
@@ -120,8 +114,7 @@
               "RelativeToolTip": "TesterApp\\AccountManager.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T12:31:19.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T12:31:19.871Z"
             },
             {
               "$type": "Document",
@@ -133,8 +126,7 @@
               "RelativeToolTip": "TesterApp\\Account.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAYwA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T12:30:58.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T12:30:58.832Z"
             },
             {
               "$type": "Document",
@@ -146,8 +138,7 @@
               "RelativeToolTip": "TesterApp\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T12:30:16.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T12:30:16.156Z"
             },
             {
               "$type": "Document",
@@ -159,8 +150,7 @@
               "RelativeToolTip": "TesterApp\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T12:29:53.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T12:29:53.94Z"
             },
             {
               "$type": "Document",
@@ -172,8 +162,7 @@
               "RelativeToolTip": "TesterApp\\Program.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAcwBgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T15:00:31.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T15:00:31.822Z"
             },
             {
               "$type": "Document",
@@ -184,8 +173,7 @@
               "ToolTip": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\TesterApp.csproj",
               "RelativeToolTip": "TesterApp\\TesterApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-13T14:56:35.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T14:56:35.742Z"
             }
           ]
         }
