@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Tap\\CSharp\\sessions\\c#basics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|D:\\Tap\\CSharp\\sessions\\c#basics\\testerapp\\salesemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\salesemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\inheritancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\inheritancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|D:\\Tap\\CSharp\\sessions\\c#basics\\testerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\salesemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\salesemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|D:\\Tap\\CSharp\\sessions\\c#basics\\testerapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,9 +56,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|D:\\Tap\\CSharp\\sessions\\c#basics\\testerapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,7 +65,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -76,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InheritanceTest.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\InheritanceTest.cs",
               "RelativeDocumentMoniker": "TesterApp\\InheritanceTest.cs",
@@ -89,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SalesEmployee.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\SalesEmployee.cs",
               "RelativeDocumentMoniker": "TesterApp\\SalesEmployee.cs",
               "ToolTip": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\SalesEmployee.cs",
               "RelativeToolTip": "TesterApp\\SalesEmployee.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T07:49:24.159Z",
               "EditorCaption": ""
@@ -110,8 +107,7 @@
               "RelativeToolTip": "TesterApp\\Employee.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA/wCYAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:59:04.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:59:04.364Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "TesterApp\\Person.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:54:16.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:54:16.944Z"
             },
             {
               "$type": "Document",
@@ -140,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SecurityTest.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\SecurityTest.cs",
               "RelativeDocumentMoniker": "TesterApp\\SecurityTest.cs",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "TesterApp\\SecurityTest.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T11:51:34.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-04T11:51:34.759Z"
             },
             {
               "$type": "Document",
@@ -165,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "item.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\item.cs",
               "RelativeDocumentMoniker": "TesterApp\\item.cs",
@@ -173,8 +167,7 @@
               "RelativeToolTip": "TesterApp\\item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T12:31:33.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T12:31:33.063Z"
             },
             {
               "$type": "Document",
@@ -226,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Program.cs",
               "RelativeDocumentMoniker": "TesterApp\\Program.cs",
@@ -234,8 +227,7 @@
               "RelativeToolTip": "TesterApp\\Program.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAA2wEkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T15:00:31.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T15:00:31.822Z"
             },
             {
               "$type": "Document",
@@ -246,8 +238,7 @@
               "ToolTip": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\TesterApp.csproj",
               "RelativeToolTip": "TesterApp\\TesterApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-13T14:56:35.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T14:56:35.742Z"
             }
           ]
         }
