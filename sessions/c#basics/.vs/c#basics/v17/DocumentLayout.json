@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Tap\\CSharp\\sessions\\c#basics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\salesemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\salesemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|d:\\tap\\csharp\\sessions\\c#basics\\testerapp\\banktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1148925-371D-45E9-A67D-462A105FA0C9}|TesterApp\\TesterApp.csproj|solutionrelative:testerapp\\banktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,19 +70,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SalesEmployee.cs",
+              "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\SalesEmployee.cs",
+              "RelativeDocumentMoniker": "TesterApp\\SalesEmployee.cs",
+              "ToolTip": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\SalesEmployee.cs",
+              "RelativeToolTip": "TesterApp\\SalesEmployee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T07:49:24.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Employee.cs",
+              "RelativeDocumentMoniker": "TesterApp\\Employee.cs",
+              "ToolTip": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Employee.cs",
+              "RelativeToolTip": "TesterApp\\Employee.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCYAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T06:59:04.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Person.cs",
+              "RelativeDocumentMoniker": "TesterApp\\Person.cs",
+              "ToolTip": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Person.cs",
+              "RelativeToolTip": "TesterApp\\Person.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T06:54:16.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "bankTest.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\bankTest.cs",
               "RelativeDocumentMoniker": "TesterApp\\bankTest.cs",
               "ToolTip": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\bankTest.cs",
               "RelativeToolTip": "TesterApp\\bankTest.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wCUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T12:50:49.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SecurityTest.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\SecurityTest.cs",
               "RelativeDocumentMoniker": "TesterApp\\SecurityTest.cs",
@@ -82,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Cart.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Cart.cs",
               "RelativeDocumentMoniker": "TesterApp\\Cart.cs",
@@ -94,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "item.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\item.cs",
               "RelativeDocumentMoniker": "TesterApp\\item.cs",
@@ -106,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AccountManager.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\AccountManager.cs",
               "RelativeDocumentMoniker": "TesterApp\\AccountManager.cs",
@@ -118,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Account.cs",
               "RelativeDocumentMoniker": "TesterApp\\Account.cs",
@@ -130,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Product.cs",
               "RelativeDocumentMoniker": "TesterApp\\Product.cs",
@@ -142,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Customer.cs",
               "RelativeDocumentMoniker": "TesterApp\\Customer.cs",
@@ -154,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\Program.cs",
               "RelativeDocumentMoniker": "TesterApp\\Program.cs",
@@ -166,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "TesterApp",
               "DocumentMoniker": "D:\\Tap\\CSharp\\sessions\\c#basics\\TesterApp\\TesterApp.csproj",
               "RelativeDocumentMoniker": "TesterApp\\TesterApp.csproj",
