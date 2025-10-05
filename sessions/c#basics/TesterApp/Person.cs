@@ -36,7 +36,7 @@ namespace HR
 
         override public string ToString()
         {
-            return FirstName = "" + LastName + "" + BirthDaate + "";
+            return FirstName = ""+FirstName+"" + LastName + "" + BirthDaate + "";
         }
     }
 }

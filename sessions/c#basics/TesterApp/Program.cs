@@ -71,7 +71,7 @@ namespace TesterApp
 
 
 
-            var marks = 456;  //dynamic type
+            //var marks = 456;  //dynamic type
 
              
             int result = Addition(23, 45);

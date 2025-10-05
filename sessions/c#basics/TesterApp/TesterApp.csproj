@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TesterApp.SecurityTest</StartupObject>
+    <StartupObject>TesterApp.InheritanceTest</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="Cart.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="Employee.cs" />
+    <Compile Include="InheritanceTest.cs" />
     <Compile Include="item.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Product.cs" />

@@ -20,6 +20,10 @@ namespace HR
             this.Incentive = incentive;
         }
 
+        public SalesEmployee(string fName, string lName, DateTime bdate, int id, string dept, decimal salary, int daysWorked) : base(fName, lName, bdate, id, dept, salary, daysWorked)
+        {
+        }
+
         public override decimal CalculateSalary()
         {
             
