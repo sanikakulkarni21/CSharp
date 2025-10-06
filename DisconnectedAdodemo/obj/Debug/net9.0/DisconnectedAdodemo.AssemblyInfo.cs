@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DisconnectedAdodemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8425da6d5f1168daf9bffa0939c210285db418b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28db6c52e118f97e2f3751c37e390c25a6013fb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DisconnectedAdodemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DisconnectedAdodemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

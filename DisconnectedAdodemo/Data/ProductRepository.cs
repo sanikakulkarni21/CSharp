@@ -27,7 +27,7 @@ public class ProductRepository
         var adapter = GetDataAdapter(connection);
 
         var table = new DataTable("Products");
-        adapter.Fill(table); // loads all rows of table into memory
+        adapter.Fill(table); // loads all rows of table into in-memory objects
         return table;
     }
 
