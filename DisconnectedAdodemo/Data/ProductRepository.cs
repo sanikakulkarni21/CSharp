@@ -71,7 +71,7 @@ public class ProductRepository
         var adapter = GetDataAdapter(connection);
 
         var table = new DataTable("Products");
-        adapter.Fill(table);
+        adapter.Fill(table);// load existing rows
 
         var rows = table.Select($"Id = {productId}");
         if (rows.Length > 0)
