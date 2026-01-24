@@ -1,0 +1,15 @@
+D:\Tap\CSharp\HRApp\bin\Debug\net9.0\HRApp.exe
+D:\Tap\CSharp\HRApp\bin\Debug\net9.0\HRApp.deps.json
+D:\Tap\CSharp\HRApp\bin\Debug\net9.0\HRApp.runtimeconfig.json
+D:\Tap\CSharp\HRApp\bin\Debug\net9.0\HRApp.dll
+D:\Tap\CSharp\HRApp\bin\Debug\net9.0\HRApp.pdb
+D:\Tap\CSharp\HRApp\obj\Debug\net9.0\HRApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\HRApp\obj\Debug\net9.0\HRApp.AssemblyInfoInputs.cache
+D:\Tap\CSharp\HRApp\obj\Debug\net9.0\HRApp.AssemblyInfo.cs
+D:\Tap\CSharp\HRApp\obj\Debug\net9.0\HRApp.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\HRApp\obj\Debug\net9.0\HRApp.sourcelink.json
+D:\Tap\CSharp\HRApp\obj\Debug\net9.0\HRApp.dll
+D:\Tap\CSharp\HRApp\obj\Debug\net9.0\refint\HRApp.dll
+D:\Tap\CSharp\HRApp\obj\Debug\net9.0\HRApp.pdb
+D:\Tap\CSharp\HRApp\obj\Debug\net9.0\HRApp.genruntimeconfig.cache
+D:\Tap\CSharp\HRApp\obj\Debug\net9.0\ref\HRApp.dll
