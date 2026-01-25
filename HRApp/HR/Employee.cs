@@ -2,7 +2,7 @@ using System;
 
 
 
-namespace Hr
+namespace HR
 {
     
     public abstract class Employee
@@ -15,11 +15,9 @@ namespace Hr
         public double BasicSalary { get; set; }
         public double Hra{get; set; }
 
-        public Employee(
-            int empId,
-            string firstName,
-            string lastName,
-            double basicSalary)
+
+
+        public Employee( int empId, string firstName, string lastName, double basicSalary)
         {
             EmpId = empId;
             FirstName = firstName;

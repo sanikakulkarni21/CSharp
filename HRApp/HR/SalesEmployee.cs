@@ -1,29 +1,28 @@
 using System;
+namespace HR.Interfaces;
+using HR;
 
-namespace Hr
-{
-    public class SalesEmployee : Employee
+    public class SalesEmployee : Employee, IAppraisable
     {
         public double Incentive { get; set; }
         public double Target { get; set; }
         public double Achieved { get; set; }
 
-      
-        public SalesEmployee(
-            int empId,
-            string firstName,
-            string lastName,
-            double basicSalary,
-            double incentive,
-            double target
+        
 
-        ) : base(empId, firstName, lastName,  basicSalary)
+      
+        public SalesEmployee( int empId, string firstName, string lastName, double basicSalary, double incentive, double target ) 
+        : base(empId, firstName, lastName,  basicSalary)
         {
             Incentive = incentive;
             Target = target;
             }
 
        
+        public virtual void ConductAppraisal()
+    {
+        Console.WriteLine("Sales Employee appraisal completed.");
+    }
         public override void DoWork()
         {
             Console.WriteLine("Sales Employee is selling products and meeting targets.");
@@ -49,4 +48,4 @@ namespace Hr
                    base.ToString();
         }
     }
-}
+

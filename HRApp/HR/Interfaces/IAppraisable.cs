@@ -1,6 +1,6 @@
 namespace HR.Interfaces;
 
-public interface IApprisable
+public interface IAppraisable
 {
     void ConductAppraisal();
 }
