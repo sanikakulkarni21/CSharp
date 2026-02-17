@@ -2,7 +2,7 @@ using System;
 
 using HR.Interfaces;
  
-public class SalesManager : SalesEmployee, IInterviewPanel, ITrainer,IBonusEligible
+public class SalesManager : SalesEmployee, IInterviewPanel, ITrainer,IBonusEligible 
     {
         public double Bonus { get; set; }
         

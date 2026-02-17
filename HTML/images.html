@@ -1,0 +1,39 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lazy Loading Demo</title>
+  <style>
+    body {
+      font-family: Arial;
+    }
+    .spacer {
+      height: 3000px;
+      background: #f2f2f2;
+    }
+    img {
+      display: block;
+      margin: 20px auto;
+      width: 300px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Lazy Loading Example</h1>
+
+  <!-- image visible immediately -->
+  <img src="images/rose.jpg" alt="Top image">
+
+  <div class="spacer">
+    Scroll down ⬇️⬇️⬇️
+  </div>
+
+  <!-- image loads only when you scroll -->
+  <img src="images/lily.jpg" loading="lazy" alt="Lazy image">
+
+</body>
+</html>
