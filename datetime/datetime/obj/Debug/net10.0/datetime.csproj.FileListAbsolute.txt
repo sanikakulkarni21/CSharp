@@ -1,0 +1,15 @@
+D:\Tap\CSharp\datetime\datetime\bin\Debug\net10.0\datetime.exe
+D:\Tap\CSharp\datetime\datetime\bin\Debug\net10.0\datetime.deps.json
+D:\Tap\CSharp\datetime\datetime\bin\Debug\net10.0\datetime.runtimeconfig.json
+D:\Tap\CSharp\datetime\datetime\bin\Debug\net10.0\datetime.dll
+D:\Tap\CSharp\datetime\datetime\bin\Debug\net10.0\datetime.pdb
+D:\Tap\CSharp\datetime\datetime\obj\Debug\net10.0\datetime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\datetime\datetime\obj\Debug\net10.0\datetime.AssemblyInfoInputs.cache
+D:\Tap\CSharp\datetime\datetime\obj\Debug\net10.0\datetime.AssemblyInfo.cs
+D:\Tap\CSharp\datetime\datetime\obj\Debug\net10.0\datetime.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\datetime\datetime\obj\Debug\net10.0\datetime.sourcelink.json
+D:\Tap\CSharp\datetime\datetime\obj\Debug\net10.0\datetime.dll
+D:\Tap\CSharp\datetime\datetime\obj\Debug\net10.0\refint\datetime.dll
+D:\Tap\CSharp\datetime\datetime\obj\Debug\net10.0\datetime.pdb
+D:\Tap\CSharp\datetime\datetime\obj\Debug\net10.0\datetime.genruntimeconfig.cache
+D:\Tap\CSharp\datetime\datetime\obj\Debug\net10.0\ref\datetime.dll
