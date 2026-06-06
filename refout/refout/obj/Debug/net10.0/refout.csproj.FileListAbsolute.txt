@@ -1,0 +1,15 @@
+D:\Tap\CSharp\refout\refout\obj\Debug\net10.0\refout.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\refout\refout\obj\Debug\net10.0\refout.AssemblyInfoInputs.cache
+D:\Tap\CSharp\refout\refout\obj\Debug\net10.0\refout.AssemblyInfo.cs
+D:\Tap\CSharp\refout\refout\obj\Debug\net10.0\refout.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\refout\refout\obj\Debug\net10.0\refout.sourcelink.json
+D:\Tap\CSharp\refout\refout\bin\Debug\net10.0\refout.exe
+D:\Tap\CSharp\refout\refout\bin\Debug\net10.0\refout.deps.json
+D:\Tap\CSharp\refout\refout\bin\Debug\net10.0\refout.runtimeconfig.json
+D:\Tap\CSharp\refout\refout\bin\Debug\net10.0\refout.dll
+D:\Tap\CSharp\refout\refout\bin\Debug\net10.0\refout.pdb
+D:\Tap\CSharp\refout\refout\obj\Debug\net10.0\refout.dll
+D:\Tap\CSharp\refout\refout\obj\Debug\net10.0\refint\refout.dll
+D:\Tap\CSharp\refout\refout\obj\Debug\net10.0\refout.pdb
+D:\Tap\CSharp\refout\refout\obj\Debug\net10.0\refout.genruntimeconfig.cache
+D:\Tap\CSharp\refout\refout\obj\Debug\net10.0\ref\refout.dll
