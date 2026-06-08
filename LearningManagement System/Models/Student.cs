@@ -13,10 +13,15 @@ public class Students : Person {
 
     public void EnrolledCources(Courses courses){
         EnrolledCources.Add(courses);
+
     }
 
     public void override DisplayInfo(){
         Console.WriteLine($"student Id : {id},Student Name : {name}");
         Console.WriteLine("Enrolled Courses");
+
+        foreach(var course in EnrolledCources){
+            Console.WriteLine($"Course Name: {course.Name}, Course Id: {course.Id}");
+        }
     }
 }

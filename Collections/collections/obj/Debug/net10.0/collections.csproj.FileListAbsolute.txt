@@ -1,0 +1,15 @@
+D:\Tap\CSharp\Collections\collections\obj\Debug\net10.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\Collections\collections\obj\Debug\net10.0\collections.AssemblyInfoInputs.cache
+D:\Tap\CSharp\Collections\collections\obj\Debug\net10.0\collections.AssemblyInfo.cs
+D:\Tap\CSharp\Collections\collections\obj\Debug\net10.0\collections.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\Collections\collections\obj\Debug\net10.0\collections.sourcelink.json
+D:\Tap\CSharp\Collections\collections\bin\Debug\net10.0\collections.exe
+D:\Tap\CSharp\Collections\collections\bin\Debug\net10.0\collections.deps.json
+D:\Tap\CSharp\Collections\collections\bin\Debug\net10.0\collections.runtimeconfig.json
+D:\Tap\CSharp\Collections\collections\bin\Debug\net10.0\collections.dll
+D:\Tap\CSharp\Collections\collections\bin\Debug\net10.0\collections.pdb
+D:\Tap\CSharp\Collections\collections\obj\Debug\net10.0\collections.dll
+D:\Tap\CSharp\Collections\collections\obj\Debug\net10.0\refint\collections.dll
+D:\Tap\CSharp\Collections\collections\obj\Debug\net10.0\collections.pdb
+D:\Tap\CSharp\Collections\collections\obj\Debug\net10.0\collections.genruntimeconfig.cache
+D:\Tap\CSharp\Collections\collections\obj\Debug\net10.0\ref\collections.dll
