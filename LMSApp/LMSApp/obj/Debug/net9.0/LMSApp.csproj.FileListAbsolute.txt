@@ -1,0 +1,14 @@
+C:\Users\sejal\Downloads\LMSApp\LMSApp\obj\Debug\net9.0\LMSApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejal\Downloads\LMSApp\LMSApp\obj\Debug\net9.0\LMSApp.AssemblyInfoInputs.cache
+C:\Users\sejal\Downloads\LMSApp\LMSApp\obj\Debug\net9.0\LMSApp.AssemblyInfo.cs
+C:\Users\sejal\Downloads\LMSApp\LMSApp\obj\Debug\net9.0\LMSApp.csproj.CoreCompileInputs.cache
+C:\Users\sejal\Downloads\LMSApp\LMSApp\bin\Debug\net9.0\LMSApp.exe
+C:\Users\sejal\Downloads\LMSApp\LMSApp\bin\Debug\net9.0\LMSApp.deps.json
+C:\Users\sejal\Downloads\LMSApp\LMSApp\bin\Debug\net9.0\LMSApp.runtimeconfig.json
+C:\Users\sejal\Downloads\LMSApp\LMSApp\bin\Debug\net9.0\LMSApp.dll
+C:\Users\sejal\Downloads\LMSApp\LMSApp\bin\Debug\net9.0\LMSApp.pdb
+C:\Users\sejal\Downloads\LMSApp\LMSApp\obj\Debug\net9.0\LMSApp.dll
+C:\Users\sejal\Downloads\LMSApp\LMSApp\obj\Debug\net9.0\refint\LMSApp.dll
+C:\Users\sejal\Downloads\LMSApp\LMSApp\obj\Debug\net9.0\LMSApp.pdb
+C:\Users\sejal\Downloads\LMSApp\LMSApp\obj\Debug\net9.0\LMSApp.genruntimeconfig.cache
+C:\Users\sejal\Downloads\LMSApp\LMSApp\obj\Debug\net9.0\ref\LMSApp.dll
