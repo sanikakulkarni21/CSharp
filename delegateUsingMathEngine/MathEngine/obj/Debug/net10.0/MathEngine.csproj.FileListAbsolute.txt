@@ -1,0 +1,15 @@
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\obj\Debug\net10.0\MathEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\obj\Debug\net10.0\MathEngine.AssemblyInfoInputs.cache
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\obj\Debug\net10.0\MathEngine.AssemblyInfo.cs
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\obj\Debug\net10.0\MathEngine.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\obj\Debug\net10.0\MathEngine.sourcelink.json
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\bin\Debug\net10.0\MathEngine.exe
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\bin\Debug\net10.0\MathEngine.deps.json
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\bin\Debug\net10.0\MathEngine.runtimeconfig.json
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\bin\Debug\net10.0\MathEngine.dll
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\bin\Debug\net10.0\MathEngine.pdb
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\obj\Debug\net10.0\MathEngine.dll
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\obj\Debug\net10.0\refint\MathEngine.dll
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\obj\Debug\net10.0\MathEngine.pdb
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\obj\Debug\net10.0\MathEngine.genruntimeconfig.cache
+D:\Tap\CSharp\delegateUsingMathEngine\MathEngine\obj\Debug\net10.0\ref\MathEngine.dll
