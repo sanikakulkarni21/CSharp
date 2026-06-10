@@ -1,0 +1,15 @@
+D:\Tap\CSharp\EventDelegate\EventDelegte\obj\Debug\net10.0\EventDelegte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\EventDelegate\EventDelegte\obj\Debug\net10.0\EventDelegte.AssemblyInfoInputs.cache
+D:\Tap\CSharp\EventDelegate\EventDelegte\obj\Debug\net10.0\EventDelegte.AssemblyInfo.cs
+D:\Tap\CSharp\EventDelegate\EventDelegte\obj\Debug\net10.0\EventDelegte.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\EventDelegate\EventDelegte\obj\Debug\net10.0\EventDelegte.sourcelink.json
+D:\Tap\CSharp\EventDelegate\EventDelegte\bin\Debug\net10.0\EventDelegte.exe
+D:\Tap\CSharp\EventDelegate\EventDelegte\bin\Debug\net10.0\EventDelegte.deps.json
+D:\Tap\CSharp\EventDelegate\EventDelegte\bin\Debug\net10.0\EventDelegte.runtimeconfig.json
+D:\Tap\CSharp\EventDelegate\EventDelegte\bin\Debug\net10.0\EventDelegte.dll
+D:\Tap\CSharp\EventDelegate\EventDelegte\bin\Debug\net10.0\EventDelegte.pdb
+D:\Tap\CSharp\EventDelegate\EventDelegte\obj\Debug\net10.0\EventDelegte.dll
+D:\Tap\CSharp\EventDelegate\EventDelegte\obj\Debug\net10.0\refint\EventDelegte.dll
+D:\Tap\CSharp\EventDelegate\EventDelegte\obj\Debug\net10.0\EventDelegte.pdb
+D:\Tap\CSharp\EventDelegate\EventDelegte\obj\Debug\net10.0\EventDelegte.genruntimeconfig.cache
+D:\Tap\CSharp\EventDelegate\EventDelegte\obj\Debug\net10.0\ref\EventDelegte.dll
