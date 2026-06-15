@@ -1,0 +1,15 @@
+D:\Tap\CSharp\LABs\Lab 4\Hr\obj\Debug\net10.0\Hr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\LABs\Lab 4\Hr\obj\Debug\net10.0\Hr.AssemblyInfoInputs.cache
+D:\Tap\CSharp\LABs\Lab 4\Hr\obj\Debug\net10.0\Hr.AssemblyInfo.cs
+D:\Tap\CSharp\LABs\Lab 4\Hr\obj\Debug\net10.0\Hr.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\LABs\Lab 4\Hr\obj\Debug\net10.0\Hr.sourcelink.json
+D:\Tap\CSharp\LABs\Lab 4\Hr\bin\Debug\net10.0\Hr.exe
+D:\Tap\CSharp\LABs\Lab 4\Hr\bin\Debug\net10.0\Hr.deps.json
+D:\Tap\CSharp\LABs\Lab 4\Hr\bin\Debug\net10.0\Hr.runtimeconfig.json
+D:\Tap\CSharp\LABs\Lab 4\Hr\bin\Debug\net10.0\Hr.dll
+D:\Tap\CSharp\LABs\Lab 4\Hr\bin\Debug\net10.0\Hr.pdb
+D:\Tap\CSharp\LABs\Lab 4\Hr\obj\Debug\net10.0\Hr.dll
+D:\Tap\CSharp\LABs\Lab 4\Hr\obj\Debug\net10.0\refint\Hr.dll
+D:\Tap\CSharp\LABs\Lab 4\Hr\obj\Debug\net10.0\Hr.pdb
+D:\Tap\CSharp\LABs\Lab 4\Hr\obj\Debug\net10.0\Hr.genruntimeconfig.cache
+D:\Tap\CSharp\LABs\Lab 4\Hr\obj\Debug\net10.0\ref\Hr.dll
