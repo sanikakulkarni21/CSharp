@@ -1,2 +1,7 @@
+using MaxNewYorkInsurance.Models;
 
-public void delegate AccountsAgent(Policy policy);
+namespace MaxNewYorkInsurance.Agents;
+
+public delegate void AccountAgent(Policy policy);
+
+public delegate void PremiumAgent(Premium premium);

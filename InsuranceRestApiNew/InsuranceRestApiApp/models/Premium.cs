@@ -7,7 +7,7 @@ public class Premium {
     public int PolicyId {get; set;}
     public string PolicyNumber {get; set;}= string.Empty;
     public int CustomerId {get; set;}
-    public string CustomerName{get; set;}
+    public string? CustomerName{get; set;}
     public decimal AmountPaid {get; set;}
     public DateTime PaymentDate {get; set;}
     public string PaymentMode {get; set;}= string.Empty;

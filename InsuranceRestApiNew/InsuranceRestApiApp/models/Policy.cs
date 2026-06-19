@@ -1,17 +1,15 @@
 
 using System.Text.Json.Serialization;
-namespace MaxNewyorkInsurance.models;
+
+namespace MaxNewYorkInsurance.Models;
 
 public class Policy{
-    public string PolicyNumber {get; set;}
-    public string PolicyType{get; set;}
-    public string CustomerName{get; set;}
+    public string PolicyNumber {get; set;} = string.Empty;
+    public string PolicyType{get; set;} = string.Empty;
+    public string CustomerName{get; set;} = string.Empty;
     public decimal PolicyAmount{get; set;}
-    public decimal IsRenewed{get; set;}=false;
+    public bool IsRenewed{get; set;} = false;
 
-    public Policy(){
-        
-    }
-
+    public Policy(){ }
 
 }
