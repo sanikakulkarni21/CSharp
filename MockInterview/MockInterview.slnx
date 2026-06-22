@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MockInterview.Api/MockInterview.Api.csproj" />
+  <Project Path="MockInterview.Data/MockInterview.Data.csproj" />
+  <Project Path="MockInterview.Models/MockInterview.Models.csproj" />
+  <Project Path="MockInterview.Services/MockInterview.Services.csproj" />
+</Solution>

@@ -1,0 +1,16 @@
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\MockInterview.Data.csproj.AssemblyReference.cache
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\MockInterview.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\MockInterview.Data.AssemblyInfoInputs.cache
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\MockInterview.Data.AssemblyInfo.cs
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\MockInterview.Data.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\MockInterview.Data.sourcelink.json
+D:\Tap\CSharp\MockInterview\MockInterview.Data\bin\Debug\net10.0\MockInterview.Data.deps.json
+D:\Tap\CSharp\MockInterview\MockInterview.Data\bin\Debug\net10.0\MockInterview.Data.dll
+D:\Tap\CSharp\MockInterview\MockInterview.Data\bin\Debug\net10.0\MockInterview.Data.pdb
+D:\Tap\CSharp\MockInterview\MockInterview.Data\bin\Debug\net10.0\MockInterview.Models.dll
+D:\Tap\CSharp\MockInterview\MockInterview.Data\bin\Debug\net10.0\MockInterview.Models.pdb
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\MockInte.0DB21D0E.Up2Date
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\MockInterview.Data.dll
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\refint\MockInterview.Data.dll
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\MockInterview.Data.pdb
+D:\Tap\CSharp\MockInterview\MockInterview.Data\obj\Debug\net10.0\ref\MockInterview.Data.dll
