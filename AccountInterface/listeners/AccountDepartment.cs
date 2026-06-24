@@ -1,5 +1,7 @@
 
-using AccountInterface.listeners;
+using System;
+
+namespace AccountInterface.Listeners;
 
 public class AccountDepartment : IAccountListener
 {

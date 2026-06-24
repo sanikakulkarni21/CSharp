@@ -1,0 +1,15 @@
+D:\Tap\CSharp\AccountInterface\obj\Debug\net10.0\AccountInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\AccountInterface\obj\Debug\net10.0\AccountInterface.AssemblyInfoInputs.cache
+D:\Tap\CSharp\AccountInterface\obj\Debug\net10.0\AccountInterface.AssemblyInfo.cs
+D:\Tap\CSharp\AccountInterface\obj\Debug\net10.0\AccountInterface.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\AccountInterface\obj\Debug\net10.0\AccountInterface.sourcelink.json
+D:\Tap\CSharp\AccountInterface\bin\Debug\net10.0\AccountInterface.exe
+D:\Tap\CSharp\AccountInterface\bin\Debug\net10.0\AccountInterface.deps.json
+D:\Tap\CSharp\AccountInterface\bin\Debug\net10.0\AccountInterface.runtimeconfig.json
+D:\Tap\CSharp\AccountInterface\bin\Debug\net10.0\AccountInterface.dll
+D:\Tap\CSharp\AccountInterface\bin\Debug\net10.0\AccountInterface.pdb
+D:\Tap\CSharp\AccountInterface\obj\Debug\net10.0\AccountInterface.dll
+D:\Tap\CSharp\AccountInterface\obj\Debug\net10.0\refint\AccountInterface.dll
+D:\Tap\CSharp\AccountInterface\obj\Debug\net10.0\AccountInterface.pdb
+D:\Tap\CSharp\AccountInterface\obj\Debug\net10.0\AccountInterface.genruntimeconfig.cache
+D:\Tap\CSharp\AccountInterface\obj\Debug\net10.0\ref\AccountInterface.dll

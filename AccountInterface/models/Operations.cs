@@ -2,7 +2,9 @@
 
  public class Operations {
 
-    public int AccountNumber {get; set;}
+    public int DepositAccNum {get; set;}
+
+     public int WithdrawAccNum {get; set;}
 
     public double Amount {get; set;}
 

@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using AccountInterface.Repositories;
+using AccountInterface.Managers;
+using AccountInterface.NotificationService;
+using AccountInterface.UIManager;
+
+var accountsRepo = new AccountsRepository();
+var accounts = accountsRepo.GetAllAccounts();
+
+INotificationService notify = new EmailService();
+var accountService = new AccountService(accounts, notify);
+
+var ui = new UIManager(accountService);
+ui.Run();
+
