@@ -2,5 +2,5 @@ namespace AccountInterface.Withdraw;
 
 public interface IWithdrawOperation
 {
-    void Withdraw(double amount);
+    void Withdraw(int accountNumber, double amount);
 }

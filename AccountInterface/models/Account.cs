@@ -3,7 +3,7 @@ namespace AccountInterface.Models;
 
 public class Account {
 
-    public string AccountHolderName {get; set;}
+    public string? AccountHolderName {get; set;}
 
     public double Balance {get; set;}
 

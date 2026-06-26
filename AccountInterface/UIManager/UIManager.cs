@@ -9,9 +9,9 @@ namespace AccountInterface.UIManager;
 
 public class UIManager
 {
-    private AccountService accmanager;
+    private AccountManager accmanager;
 
-    public UIManager(AccountService manager)
+    public UIManager(AccountManager manager)
     {
         accmanager = manager;
     }
@@ -40,7 +40,12 @@ public class UIManager
                     FundTransferUI();
                     break;
                 case 4:
-                    return;
+                    MiniStatementUI();
+                    break;
+
+                case 5 :
+                     return;
+
             }
         }
     }
@@ -53,7 +58,7 @@ public class UIManager
         Console.WriteLine("Enter Amount to Deposit");
         if (!double.TryParse(Console.ReadLine(), out double amount)) return;
 
-        accmanager.DepositToAccount(accNumber, amount);
+        accmanager.Deposit(accNumber, amount);
         Console.WriteLine($"Amount {amount} Deposited to Account number {accNumber}");
     }
 
@@ -65,7 +70,7 @@ public class UIManager
         Console.WriteLine("Enter Amount to Withdraw:");
         if (!double.TryParse(Console.ReadLine(), out double amount)) return;
 
-        accmanager.WithdrawFromAccount(accNumber, amount);
+        accmanager.Withdraw(accNumber, amount);
         Console.WriteLine($"Amount {amount} withdrawn from account number {accNumber}");
     }
 
@@ -82,5 +87,11 @@ public class UIManager
 
         accmanager.TransferFunds(fromAcc.ToString(), toAcc.ToString(), amount);
         Console.WriteLine($"Amount {amount} is Transferred from account {fromAcc} to account No {toAcc}");
+    }
+
+    private void MiniStatementUI(){
+        Console.WriteLine("Enter account Number");
+        int accno=Convert.ToInt32(Console.ReadLine());
+         accmanager.MiniStatement(accno);
     }
 }

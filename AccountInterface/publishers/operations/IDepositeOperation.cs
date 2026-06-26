@@ -2,5 +2,5 @@ namespace AccountInterface.Deposit;
 
 public interface IDepositOperation
 {
-    void Deposit(double amount);
+    void Deposit(int accNumber,double amount);
 }

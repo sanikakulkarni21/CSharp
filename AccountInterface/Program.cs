@@ -8,8 +8,8 @@ var accountsRepo = new AccountsRepository();
 var accounts = accountsRepo.GetAllAccounts();
 
 INotificationService notify = new EmailService();
-var accountService = new AccountService(accounts, notify);
+var accountManager = new AccountManager(accounts, notify);
 
-var ui = new UIManager(accountService);
+var ui = new UIManager(accountManager);
 ui.Run();
 
