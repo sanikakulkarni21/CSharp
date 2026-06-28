@@ -7,7 +7,7 @@ using AccountInterface.Models;
 
 namespace AccountInterface.Repositories;
 
-public class OperationsRepository
+public class OperationsRepository : IOperationsRepository
 {
     public List<Operations> GetAllOperations()
     {

@@ -7,7 +7,7 @@ using AccountInterface.Models;
 
 namespace AccountInterface.Repositories;
 
-public class AccountsRepository
+public class AccountsRepository : IAccountsRepository
 {
     public List<Account> GetAllAccounts()
     {

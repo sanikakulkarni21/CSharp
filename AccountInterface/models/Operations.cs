@@ -11,4 +11,5 @@
     public string? OperationType {get; set;}
 
     public DateTime   TransactionDate {get; set;}
+      public double CurrentBalance{get;set;}
  }
