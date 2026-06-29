@@ -1,0 +1,15 @@
+D:\Tap\CSharp\Collection Framework\2Darray\bin\Debug\net10.0\2Darray.exe
+D:\Tap\CSharp\Collection Framework\2Darray\bin\Debug\net10.0\2Darray.deps.json
+D:\Tap\CSharp\Collection Framework\2Darray\bin\Debug\net10.0\2Darray.runtimeconfig.json
+D:\Tap\CSharp\Collection Framework\2Darray\bin\Debug\net10.0\2Darray.dll
+D:\Tap\CSharp\Collection Framework\2Darray\bin\Debug\net10.0\2Darray.pdb
+D:\Tap\CSharp\Collection Framework\2Darray\obj\Debug\net10.0\2Darray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tap\CSharp\Collection Framework\2Darray\obj\Debug\net10.0\2Darray.AssemblyInfoInputs.cache
+D:\Tap\CSharp\Collection Framework\2Darray\obj\Debug\net10.0\2Darray.AssemblyInfo.cs
+D:\Tap\CSharp\Collection Framework\2Darray\obj\Debug\net10.0\2Darray.csproj.CoreCompileInputs.cache
+D:\Tap\CSharp\Collection Framework\2Darray\obj\Debug\net10.0\2Darray.sourcelink.json
+D:\Tap\CSharp\Collection Framework\2Darray\obj\Debug\net10.0\2Darray.dll
+D:\Tap\CSharp\Collection Framework\2Darray\obj\Debug\net10.0\refint\2Darray.dll
+D:\Tap\CSharp\Collection Framework\2Darray\obj\Debug\net10.0\2Darray.pdb
+D:\Tap\CSharp\Collection Framework\2Darray\obj\Debug\net10.0\2Darray.genruntimeconfig.cache
+D:\Tap\CSharp\Collection Framework\2Darray\obj\Debug\net10.0\ref\2Darray.dll
